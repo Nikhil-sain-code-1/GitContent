@@ -4,7 +4,7 @@ const Buttons = (props) => {
   // console.log(props.allCat)
   return (
     <div>
-      <div id='menu' >
+      <div id='menuu' >
         {
 
           props.allCat.map((item) => {
